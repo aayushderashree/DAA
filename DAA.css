@@ -1,0 +1,15 @@
+html,body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-weight: 600;
+}
+
+.w3-white, .w3-hover-white:hover{
+    color: #fff!important;
+    background-color: brown!important;
+}
+p{
+    color: #fff;
+}
